@@ -67,3 +67,16 @@
     margin-bottom: 30px;
     margin-left: 5px;
 }
+.div-home{
+    background-color: rgb(232, 112, 112);
+    place-content: center;
+    display: grid;
+    place-items: center;
+}
+.texto-home{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+.img-home{
+    height: 500px;
+}
