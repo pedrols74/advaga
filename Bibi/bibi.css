@@ -76,7 +76,24 @@
 .texto-home{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: oblique;
+    font-size: larger;
 }
 .img-home{
     height: 500px;
+}
+.div-about{
+    margin: auto;
+    width: 50%;
+}
+.section-about{
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px pink;
+
+}
+.p-about{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
 }
